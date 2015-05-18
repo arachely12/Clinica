@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pacientes de Clinica</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="clave">Clave de consulta</string>
+    <string name="nombre">Nombre de paciente</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="fecha_con">Fecha de consulta</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="peso">Peso</string>
+    <string name="motivo">Motivo de la consulta</string>
+    <string name="observaciones">Observaciones</string>
+
+    <string name="alta">Guardar</string>
+    <string name="consulta">Buscar</string>
+    <string name="baja">Eliminar</string>
+    <string name="modificar">Actualizar</string>
+    <string name="limpiar">Limpiar</string>
+
+
+    <string name="informacion">Acerca de..</string>
+    <string name="title_activity_informacion">informacion</string>
+    <string name="nom1">NOMBRE: </string>
+    <string name="nom2">Aracely Mojica Perez</string>
+    <string name="control1">NO. DE CONTROL:</string>
+    <string name="control2">11930081</string>
+    <string name="texto1">Diseñadora y programadora de este sistema para el control de consultas de una clinica.</string>
+
+</resources>
